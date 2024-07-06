@@ -4,12 +4,11 @@
 - 📫 How to reach me
 - The ways to reach me are as follows:-
 - <ol>
-  <li>>My Contact Number:- <a href="tel:+92 3117865772">+92 3117865772</a></li>
+  <li>My Contact Number:- <a href="tel:+92 3117865772">+92 3117865772</a></li>
   <li>My E-mail address <a href="mailto:shayandec2@gmail.com">shayandec2@gmail.com</a> </li>
-<li>  My Facebook account:- <a href="https://www.facebook.com/profile.php?id=61553222710778"></a>
-</li>
-<li>My Instagram Account:- <a href="https://www.instagram.com/8143shayan/">My instagram account</a></li>
-<li>My youtube page:-<a href="https://www.youtube.com/feed/you">My youtube page</a></li>
+  <li>  My Facebook account:- <a href="https://www.facebook.com/profile.php?id=61553222710778"></a></li>
+  <li>My Instagram Account:- <a href="https://www.instagram.com/8143shayan/">My instagram account</a></li>
+  <li>My youtube page:-<a href="https://www.youtube.com/feed/you">My youtube page</a></li>
 </ol>
 
 <!---
