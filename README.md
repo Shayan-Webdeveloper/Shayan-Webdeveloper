@@ -1,4 +1,3 @@
-<img src="https://i.pinimg.com/736x/b4/d1/7a/b4d17a3041602897cd7d4519a75f2ecb.jpg">
 - 👋 Hi, I’m M.Shayan Mohsin, a Web & App Developer
 - 👀 I’m interested in Developing websites & Applications
 - 🌱 I’m currently learning Web & App Developing
