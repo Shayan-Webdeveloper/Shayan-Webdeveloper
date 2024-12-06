@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shayan-Webdeveloper](github.com/shayan-Webdeveloper)
 
-- 📝 I regularly write articles on [Coding]
+- 📝 I regularly write articles on Coding
 
 - 💬 Ask me about **HTML, CSS & Bootstrap**
 
